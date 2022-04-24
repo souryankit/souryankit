@@ -1,4 +1,4 @@
-### Hi Ankit Kumar there 👋
+<h2 align="centre">### Hi Ankit Kumar there 👋 </h2>
 
 
 <!-- **souryankit/souryankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
