@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=souryankit)](https://github.com/ryo-ma/github-profile-trophy)
-<h1 align="center">Hi 👋, I'm Abhijit</h1>
-<h3 align="center">An entrepreneur, author, python developer and teacher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souryankit&label=Profile%20views&color=0e75b6&style=flat" alt="souryankit" /> </p>
 
