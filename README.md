@@ -1,6 +1,6 @@
 ### Hi Ankit Kumar there 👋
 
-<!--
+
 **souryankit/souryankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=souryankit)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souryankit&label=Profile%20views&color=0e75b6&style=flat" alt="souryankit" /> </p>
