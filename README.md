@@ -1,4 +1,4 @@
-
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQH5rn6TvqjkdA/profile-displaybackgroundimage-shrink_350_1400/0/1652040086634?e=1665619200&v=beta&t=AFTJ-MomctLd61W918l6zF96wUlDO-GPVWRyQ4yZCHU)
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate Web-App & VLSI frontend developer from India.</h3>
 
