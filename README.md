@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **souryankit@gmail.com**
 
-- ⚡ Fun fact **I am not who you want, You need me.**
+- ⚡ Fun-Fact **Actions Shows what we are actually.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
