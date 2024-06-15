@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/souryankit" target="blank"><img src="https://img.shields.io/twitter/follow/souryankit?logo=twitter&style=for-the-badge" alt="souryankit" /></a> </p>
 
-- 🌱 I’m currently working as **SoC_ASIC_RTL Design and Verification Engineer**
+- 🌱 I’m currently working as **Design & Verification Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/souryankit?tab=repositories](https://github.com/souryankit?tab=repositories)
 
